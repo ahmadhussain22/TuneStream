@@ -22,7 +22,7 @@ Ahmad Hussain & Team
 
 ---
 
-## 🌈 Preview
+##  Preview
 🎵 *“Your tunes, your vibe — one stream at a time.”*  
 
 <img src="https://github.com/ahmadhussain22/TuneStream/assets/00000000/sample-preview.gif" width="600"/>
